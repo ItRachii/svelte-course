@@ -69,7 +69,9 @@ export default writable(0)
 7. [Reactive Statements - 2](https://github.com/alialaa/svelte-course/tree/reactive-gotcha-2)
 8. [Component Prop](https://github.com/alialaa/svelte-course/tree/props)
 
-**Section 3: **
+**Section 3: Exploring More Svelte By Creating a Button Component**
+
+1. [Accessing Component Child with Slot](https://github.com/alialaa/svelte-course/tree/button-component-1)
 
 **Section 4: **
 
