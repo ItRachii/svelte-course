@@ -72,6 +72,8 @@ export default writable(0)
 **Section 3: Exploring More Svelte By Creating a Button Component**
 
 1. [Accessing Component Child with Slot](https://github.com/alialaa/svelte-course/tree/button-component-1)
+2. [Svelte Preprocessor](https://github.com/alialaa/svelte-course/tree/class-directive)
+
 
 **Section 4: **
 
