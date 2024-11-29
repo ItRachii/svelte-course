@@ -52,11 +52,11 @@ export default writable(0)
 
 **Section 1: Introduction**
 
-[Write less code] (https://svelte.dev/blog/write-less-code)
-[Frameworks without the frameworks] (https://svelte.dev/blog/frameworks-without-the-framework)
-[Virtual DOM] (https://svelte.dev/blog/virtual-dom-is-pure-overhead)
-[sveltesociety.dev] (https://www.sveltesociety.dev/packages)
-[REPL] (https://svelte.dev/playground/hello-world?version=5.2.10)
+1. [Write less code](https://svelte.dev/blog/write-less-code)
+2. [Frameworks without the frameworks](https://svelte.dev/blog/frameworks-without-the-framework)
+3. [Virtual DOM](https://svelte.dev/blog/virtual-dom-is-pure-overhead)
+4. [sveltesociety.dev](https://www.sveltesociety.dev/packages)
+5. [REPL](https://svelte.dev/playground/hello-world?version=5.2.10)
 
 **Section 2: **
 
