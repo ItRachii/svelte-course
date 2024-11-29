@@ -48,3 +48,5 @@ export default writable(0)
 ```
 
 ##Course Content
+
+**Section 1: Introduction**
