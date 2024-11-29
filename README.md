@@ -47,6 +47,6 @@ import { writable } from 'svelte/store'
 export default writable(0)
 ```
 
-##Course Content
+## Course Content
 
 **Section 1: Introduction**
