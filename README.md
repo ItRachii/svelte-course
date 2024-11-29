@@ -58,7 +58,16 @@ export default writable(0)
 4. [sveltesociety.dev](https://www.sveltesociety.dev/packages)
 5. [REPL](https://svelte.dev/playground/hello-world?version=5.2.10)
 
-**Section 2: **
+**Section 2: Getting Started With Svelte**
+
+1. [Getting Started Docs](https://svelte.dev/docs/svelte/overview)
+2. [Creating a Svelte Vite Template](https://github.com/alialaa/svelte-course/tree/svelte-vite-template)
+3. [Svelte Components Basic Structure](https://github.com/alialaa/svelte-course/tree/first-component)
+4. [Counter Component](https://github.com/alialaa/svelte-course/tree/simple-counter)
+5. [State](https://github.com/alialaa/svelte-course/tree/reactive-statements)
+6. [Reactive Statements - 1](https://github.com/alialaa/svelte-course/tree/reactive-gotcha-1)
+7. [Reactive Statements - 2](https://github.com/alialaa/svelte-course/tree/reactive-gotcha-2)
+8. [Component Prop](https://github.com/alialaa/svelte-course/tree/props)
 
 **Section 3: **
 
