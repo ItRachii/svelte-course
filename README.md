@@ -79,7 +79,7 @@ export default writable(0)
 6. [Style Directive in-line variable](https://github.com/alialaa/svelte-course/tree/style-directive-css-vars)
 7. [Named Slots](https://github.com/alialaa/svelte-course/tree/named-slots)
 8. [Svelte Icon](https://github.com/Introvertuous/svelte-icons)
-
+9. [Slot Props](https://github.com/alialaa/svelte-course/tree/slot-props)
 
 **Section 4: **
 
