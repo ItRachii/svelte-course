@@ -75,6 +75,8 @@ export default writable(0)
 2. [svelte-preprocessor](https://github.com/sveltejs/svelte-preprocess)
 3. [Adding Svelte Preprocessor](https://github.com/alialaa/svelte-course/tree/adding-scss)
 4. [Class Directive](https://github.com/alialaa/svelte-course/tree/class-directive)
+5. [Style Directive in-line](https://github.com/alialaa/svelte-course/tree/style-directive)
+6. [Style Directive in-line variable](https://github.com/alialaa/svelte-course/tree/style-directive-css-vars) 
 
 
 **Section 4: **
