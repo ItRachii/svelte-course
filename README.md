@@ -82,6 +82,7 @@ export default writable(0)
 9. [Slot Props](https://github.com/alialaa/svelte-course/tree/slot-props)
 10. [Event Forwarding and Modifier](https://github.com/alialaa/svelte-course/tree/button-events)
 11. [Event Modifier Documentation](https://svelte.dev/docs#template-syntax-element-directives-on-eventname)
+12. [Forwarding Props Using Rest Props](https://github.com/alialaa/svelte-course/tree/restprops)
 
 **Section 4: **
 
