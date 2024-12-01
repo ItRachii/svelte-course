@@ -80,6 +80,8 @@ export default writable(0)
 7. [Named Slots](https://github.com/alialaa/svelte-course/tree/named-slots)
 8. [Svelte Icon](https://github.com/Introvertuous/svelte-icons)
 9. [Slot Props](https://github.com/alialaa/svelte-course/tree/slot-props)
+10. [Event Forwarding and Modifier](https://github.com/alialaa/svelte-course/tree/button-events)
+11. [Event Modifier Documentation](https://svelte.dev/docs#template-syntax-element-directives-on-eventname)
 
 **Section 4: **
 
