@@ -76,7 +76,9 @@ export default writable(0)
 3. [Adding Svelte Preprocessor](https://github.com/alialaa/svelte-course/tree/adding-scss)
 4. [Class Directive](https://github.com/alialaa/svelte-course/tree/class-directive)
 5. [Style Directive in-line](https://github.com/alialaa/svelte-course/tree/style-directive)
-6. [Style Directive in-line variable](https://github.com/alialaa/svelte-course/tree/style-directive-css-vars) 
+6. [Style Directive in-line variable](https://github.com/alialaa/svelte-course/tree/style-directive-css-vars)
+7. [Named Slots](https://github.com/alialaa/svelte-course/tree/named-slots)
+8. [Svelte Icon](https://github.com/Introvertuous/svelte-icons)
 
 
 **Section 4: **
