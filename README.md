@@ -88,6 +88,7 @@ export default writable(0)
 
 1. [#each Loop](https://github.com/alialaa/svelte-course/tree/todos-each-loop)
 2. [Input Binding](https://github.com/alialaa/svelte-course/tree/input-binding)
+3. [Updating Array](https://github.com/alialaa/svelte-course/tree/updating-todos-array)
 
 **Section 5: **
 
