@@ -102,7 +102,11 @@ export default writable(0)
 
 **Section 9: **
 
-**Section 10: **
+**Section 10: SvelteKit Pages & Layout**
+
+1. [Introduction to SvelteKit](https://svelte.dev/docs/kit/glossary)
+2. [Creating Project Structure](https://svelte.dev/docs/kit/project-structure)
+3. 
 
 **Section 11: **
 
