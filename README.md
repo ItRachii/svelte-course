@@ -84,7 +84,10 @@ export default writable(0)
 11. [Event Modifier Documentation](https://svelte.dev/docs#template-syntax-element-directives-on-eventname)
 12. [Forwarding Props Using Rest Props](https://github.com/alialaa/svelte-course/tree/restprops)
 
-**Section 4: **
+**Section 4: Diving Deeper With a TODO List Component**
+
+1. [#each Loop](https://github.com/alialaa/svelte-course/tree/todos-each-loop)
+2. [Input Binding](https://github.com/alialaa/svelte-course/tree/input-binding)
 
 **Section 5: **
 
