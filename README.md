@@ -108,6 +108,7 @@ export default writable(0)
 2. [Creating Project Structure](https://svelte.dev/docs/kit/project-structure)
 3. [Creating Routes](https://github.com/alialaa/sveltekit-course/tree/routing-basics)
 4. [The $lib Folder Alias & Custom Aliases](https://github.com/alialaa/sveltekit-course/tree/organazing-components)
+5. [Navigation Functions: goto(), beforeNavigate() & afterNavigate()](https://github.com/alialaa/sveltekit-course/tree/navigation-functions)
 
 **Section 11: **
 
