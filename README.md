@@ -109,6 +109,13 @@ export default writable(0)
 3. [Creating Routes](https://github.com/alialaa/sveltekit-course/tree/routing-basics)
 4. [The $lib Folder Alias & Custom Aliases](https://github.com/alialaa/sveltekit-course/tree/organazing-components)
 5. [Navigation Functions: goto(), beforeNavigate() & afterNavigate()](https://github.com/alialaa/sveltekit-course/tree/navigation-functions)
+6. [Rest Parameters](https://github.com/alialaa/sveltekit-course/tree/rest-params)
+7. [Optional Parameters](https://github.com/alialaa/sveltekit-course/tree/optional-params)
+8. [Parameter Matcher](https://github.com/alialaa/sveltekit-course/tree/param-matchers)
+9. [Layout Basics](https://github.com/alialaa/sveltekit-course/tree/layouts-basics)
+10. [Layout Conditions](https://github.com/alialaa/sveltekit-course/tree/layout-conditions)
+11. [Layout Groups](https://github.com/alialaa/sveltekit-course/tree/layout-groups)
+12. [Breaking Out of Layouts](https://github.com/alialaa/sveltekit-course/tree/breaking-out-of-layouts)
 
 **Section 11: **
 
