@@ -92,7 +92,7 @@ export default writable(0)
 4. [Binding Component Props](https://github.com/alialaa/svelte-course/tree/prop-binding)
 5. [Dispatching Custom Events](https://github.com/alialaa/svelte-course/tree/custom-events)
 
-**Section 5: **
+**Section 5: Animations & Transations**
 
 **Section 6: **
 
@@ -100,7 +100,11 @@ export default writable(0)
 
 **Section 8: **
 
-**Section 9: **
+**Section 9: Module Context**
+
+1. []()
+2. []()
+3. []()
 
 **Section 10: SvelteKit Pages & Layout**
 
