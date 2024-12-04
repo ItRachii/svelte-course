@@ -132,3 +132,6 @@ export default writable(0)
 **Section 17: Capstone Project**
 
 1. [Creating a New SvelteKit Project And Installing a CSS Normalizer](https://github.com/alialaa/svelte-spotify/tree/normalize-css)
+2. [modern-normalize](https://github.com/sindresorhus/modern-normalize)
+3. [SASS Setup](https://github.com/alialaa/svelte-spotify/tree/sass-setup)
+4. [unsass/breakpoint for Media Queries in SCSS](https://github.com/unsass/breakpoint)
